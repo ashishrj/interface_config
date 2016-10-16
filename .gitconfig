@@ -1,0 +1,6 @@
+[user]
+	name = user.name
+	email = user.email
+[alias]
+		tree = log --graph --decorate --pretty=oneline --abbrev-commit
+		hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
