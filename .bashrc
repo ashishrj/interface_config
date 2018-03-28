@@ -9,8 +9,6 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
-alias algo='cd /home/ashraj/efrontier-code-base/cv-server/src/server/python/lib/cv/everest/alg/'
-alias build_home='cd /home/ashraj/efrontier-code-base/cv-server/src/server/'
 #PS1='\@ $'
 
 parse_git_branch() {
